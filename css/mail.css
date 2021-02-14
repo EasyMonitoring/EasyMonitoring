@@ -108,7 +108,10 @@
     align-items: center;
     justify-content: center;
 }
-
+.adss{
+    max-width: 1px;
+    max-height: 1px;
+}
 
 
 
