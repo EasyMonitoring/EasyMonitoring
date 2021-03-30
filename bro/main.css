@@ -1,0 +1,5 @@
+.div{
+    display: block;
+    flex-wrap: nowrap;
+    width: 500px;
+}
